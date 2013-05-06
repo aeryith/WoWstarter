@@ -1,1 +1,9 @@
-This is a readme.
+This .bat file deletes the creature cache before starting World of Warcraft.
+This is for NPC Scan addon that alerts you to rares.
+
+NOTE: 
+If your WoW install is not
+C:/Program Files/
+
+you will need to edit the .bat file (with any text editor) 
+and change the lines to point to your install. 
